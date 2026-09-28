@@ -3,7 +3,7 @@
 Install the experimental Apple Silicon macOS app:
 
 ```sh
-brew tap nanonigit/tap
+brew tap nanonigit/dragshelf
 brew install --cask dragshelf
 ```
 
@@ -14,7 +14,7 @@ DragShelf is ad-hoc signed, not Developer ID signed or notarized. macOS may bloc
 Apple Silicon Mac 用の実験版をインストールします。
 
 ```sh
-brew tap nanonigit/tap
+brew tap nanonigit/dragshelf
 brew install --cask dragshelf
 ```
 
