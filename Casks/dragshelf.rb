@@ -1,6 +1,6 @@
 cask "dragshelf" do
-  version "0.1.5"
-  sha256 "882ba676cb08211c6d79b74d3d8bd2a4ced4b0fa60a3b07f4a5d02ea965934ba"
+  version "0.1.6"
+  sha256 "11f5a8fca053c0c2f6c53b9ea8d659c3a675509e25f713d7674f67b84a41918f"
 
   url "https://github.com/nanonigit/DragShelf/releases/download/v#{version}/DragShelf-#{version}-macos-arm64.zip"
   name "DragShelf"
